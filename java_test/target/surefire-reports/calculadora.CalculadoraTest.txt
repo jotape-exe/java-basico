@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: calculadora.CalculadoraTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.026 s <<< FAILURE! - in calculadora.CalculadoraTest
+testMultiplicacao  Time elapsed: 0.006 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <200> but was: <100>
+	at calculadora.CalculadoraTest.testMultiplicacao(CalculadoraTest.java:29)
+

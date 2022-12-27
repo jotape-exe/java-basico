@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: pratica.junit.ServicoPessoaTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.04 s <<< FAILURE! - in pratica.junit.ServicoPessoaTest
+testIsAdultExeptionNull  Time elapsed: 0.008 s  <<< ERROR!
+java.lang.RuntimeException: 
+Uncompilable code - cannot find symbol
+  symbol:   class NullPointerExeption
+  location: class pratica.junit.ServicoPessoaTest
+	at pratica.junit.ServicoPessoaTest.testIsAdultExeptionNull(ServicoPessoaTest.java:1)
+

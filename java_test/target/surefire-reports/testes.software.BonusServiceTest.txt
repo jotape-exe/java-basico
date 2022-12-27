@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: testes.software.BonusServiceTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.011 s <<< FAILURE! - in testes.software.BonusServiceTest
+testAplicarBonus  Time elapsed: 0.005 s  <<< ERROR!
+java.lang.RuntimeException: Uncompilable code - incompatible types: void cannot be converted to double
+	at testes.software.BonusServiceTest.<init>(BonusServiceTest.java:1)
+
